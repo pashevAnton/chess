@@ -26,6 +26,11 @@
     align-items: center;
 }
 
+.cell img {
+    width: 48px;
+    height: 48px;
+}
+
 .black {
     background-color: deepskyblue;
 }
