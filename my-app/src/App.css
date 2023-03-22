@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
 }
 
 .board {
@@ -48,4 +49,11 @@
     width: 12px;
     border-radius: 50%;
     background-color: #22c022;
+}
+
+.lost {
+    height: calc(50vh - 60px);
+    padding: 30px;
+    margin-left: 30px;
+    background-color: lightgray;
 }
